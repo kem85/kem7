@@ -1,6 +1,15 @@
-# Hi there, I'm kem85 👋
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=kem8&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-![Purple Minimal Banner](https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=180&section=header&text=kem85&fontSize=50&fontColor=ffffff)
+<div align="center">
+
+
+
+![Purple Minimal Banner](https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=180&section=header&text=Hi%20there,%20I'm%20Karim%20👋&fontSize=50&fontColor=ffffff)
 
 ## 👨‍💻 Full Stack Web Developer
 
