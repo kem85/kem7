@@ -33,7 +33,7 @@ Just launched a fully functional ChatApp—designed to make real-time communicat
 
 <!-- Purple minimal divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/kem85/purple-divider.png" width="60%" />
+  <img src="[https://user-images.githubusercontent.com/kem85/purple-divider.png](https://avatars.githubusercontent.com/u/95261830?v=4)" width="60%" />
 </p>
 
 <!-- GitHub Stats (Optional) -->
