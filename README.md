@@ -30,12 +30,6 @@ Just launched a fully functional ChatApp—designed to make real-time communicat
 - Further enhancing my backend expertise
 
 ---
-
-<!-- Purple minimal divider -->
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/kem85/purple-divider.png](https://avatars.githubusercontent.com/u/95261830?v=4)" width="60%" />
-</p>
-
 <!-- GitHub Stats (Optional) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kem85&show_icons=true&theme=purple&hide_title=true" />
